@@ -145,3 +145,4 @@ C:\Users\Shalom\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\n
 C:\Users\Shalom\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.pdb
 C:\Users\Shalom\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.genruntimeconfig.cache
 C:\Users\Shalom\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\ref\EmployeeAdminPortal.dll
+C:\Users\Shalom\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.sourcelink.json
